@@ -1,10 +1,10 @@
 {
   "name": "janaka-claude-plugins",
   "owner": {
-    "name": "Janaka-Steph"
+    "name": "astral-horizon-labs"
   },
   "metadata": {
-    "description": "Collection of Claude Code plugins by Janaka-Steph",
+    "description": "Collection of Claude Code plugins by astral-horizon-labs",
     "version": "1.0.0"
   },
   "plugins": [
@@ -13,10 +13,10 @@
       "source": "./plugins/janaka-imagen",
       "description": "Generate images using Google Gemini's AI image generation model. Create UI mockups, icons, illustrations, diagrams, and more.",
       "author": {
-        "name": "Janaka-Steph"
+        "name": "astral-horizon-labs"
       },
-      "homepage": "https://github.com/Janaka-Steph/janaka-claude-plugins",
-      "repository": "https://github.com/Janaka-Steph/janaka-claude-plugins",
+      "homepage": "https://github.com/astral-horizon-labs/janaka-claude-plugins",
+      "repository": "https://github.com/astral-horizon-labs/janaka-claude-plugins",
       "license": "Apache-2.0",
       "keywords": ["image", "gemini", "ai", "generation", "mockup"],
       "category": "media",
