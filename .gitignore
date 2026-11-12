@@ -1,3 +1,4 @@
 .DS_Store
-firebase-debug.log__pycache__/
+firebase-debug.log
+__pycache__/
 *.pyc
